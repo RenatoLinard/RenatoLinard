@@ -11,30 +11,4 @@
 
 
 
-</div>
 
-## Tecnologias que tenho interesse
-<div style="display: inline_block"><br>
-<img alt = "laravel" src ="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-<img alt = ".net" src ="https://res.cloudinary.com/practicaldev/image/fetch/s--RKHCWMhA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/.NET-5C2D91%3Fstyle%3Dfor-the-badge%26logo%3D.net%26logoColor%3Dwhite">
-
-</div>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonnLima&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonnLima&layout=compact&theme=dracula)](https://github.com/MarlonnLima/github-readme-stats)
-<!--
-**RenatoLinard/RenatoLinard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
