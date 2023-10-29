@@ -2,7 +2,7 @@
 
 
 
-## Tecnologias Utilizadas
+## Meu Arsenal de Ferramentas para Codar!!!
 <div style="display: inline_block"><br>
 <img alt = "linux" src ="https://img.shields.io/badge/LINUX-E34F26?style=for-the-badge&logo=linux&logoColor=white">
 <img alt = "javascript" src ="https://img.shields.io/badge/JAVASCRIPT-1572B6?style=for-the-badge&logo=javascript&logoColor=white">
